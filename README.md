@@ -1,1 +1,1 @@
-"rename to index.html"
+index.html
